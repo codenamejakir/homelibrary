@@ -8,7 +8,7 @@
         "genre": "ইসলামিক শাস্ত্র",
         "price": 0,
         "keywords": ["কোরআন", "ইসলাম", "ধর্ম", "quran", "al-quran", "quraan"],
-        "coverImageUrl": "https://wafilife-media.wafilife.com/uploads/2020/10/nobijir-pathshala-01-192x254.png"
+        "coverImageUrl": "https://codenamejakir.github.io/homelibrary/covers/image1.png"
     },
     {
         "bookId": 2,
@@ -19,7 +19,7 @@
         "genre": "হাদিস",
         "price": 1200,
         "keywords": ["হাদিস", "সুন্নি", "ইসলাম"],
-        "coverImageUrl": "https://wafilife-media.wafilife.com/uploads/2020/10/nobijir-pathshala-01-192x254.png"
+        "coverImageUrl": "https://codenamejakir.github.io/homelibrary/covers/image2.png"
     },
     {
         "bookId": 3,
@@ -30,7 +30,7 @@
         "genre": "হাদিস",
         "price": 1500,
         "keywords": ["হাদিস", "সুন্নি", "ইসলাম", "muslim", "hadith"],
-        "coverImageUrl": "https://wafilife-media.wafilife.com/uploads/2020/10/nobijir-pathshala-01-192x254.png"
+        "coverImageUrl": "https://codenamejakir.github.io/homelibrary/covers/image3.png"
     },
     {
         "bookId": 4,
@@ -41,7 +41,7 @@
         "genre": "হাদিস",
         "price": 1200,
         "keywords": ["সুন্নাত", "ইসলাম", "হাদিস", "hadith"],
-        "coverImageUrl": "https://wafilife-media.wafilife.com/uploads/2020/10/nobijir-pathshala-01-192x254.png"
+        "coverImageUrl": "https://codenamejakir.github.io/homelibrary/covers/image4.png"
     },
     {
         "bookId": 5,
@@ -52,7 +52,7 @@
         "genre": "হাদিস",
         "price": 1200,
         "keywords": ["ইসলাম", "হাদিস", "সুন্নাত", "hadith"],
-        "coverImageUrl": "https://wafilife-media.wafilife.com/uploads/2020/10/nobijir-pathshala-01-192x254.png"
+        "coverImageUrl": "https://codenamejakir.github.io/homelibrary/covers/image5.png"
     },
     {
         "bookId": 6,
@@ -63,7 +63,7 @@
         "genre": "তাফসীর",
         "price": 5500,
         "keywords": ["কোরআন", "তাফসীর", "ইসলাম", "tafsir"],
-        "coverImageUrl": "https://wafilife-media.wafilife.com/uploads/2020/10/nobijir-pathshala-01-192x254.png"
+        "coverImageUrl": "https://codenamejakir.github.io/homelibrary/covers/image6.png"
     },
     {
         "bookId": 7,
@@ -74,7 +74,7 @@
         "genre": "হাদিস",
         "price": 2000,
         "keywords": ["আরবি", "হাদিস", "ইসলাম", "islam", "bukhari"],
-        "coverImageUrl": "https://wafilife-media.wafilife.com/uploads/2020/10/nobijir-pathshala-01-192x254.png"
+        "coverImageUrl": "https://codenamejakir.github.io/homelibrary/covers/image1.png"
     },
     {
         "bookId": 8,
@@ -85,7 +85,7 @@
         "genre": "হাদিস",
         "price": 1500,
         "keywords": ["ইসলাম", "হাদিস", "সংকলন"],
-        "coverImageUrl": "https://wafilife-media.wafilife.com/uploads/2020/10/nobijir-pathshala-01-192x254.png"
+        "coverImageUrl": "https://codenamejakir.github.io/homelibrary/covers/image1.png"
     },
     {
         "bookId": 9,
@@ -96,7 +96,7 @@
         "genre": "ইসলাম",
         "price": 1500,
         "keywords": ["ইসলাম", "হাদিস", "ইতিহাস"],
-        "coverImageUrl": "https://wafilife-media.wafilife.com/uploads/2020/10/nobijir-pathshala-01-192x254.png"
+        "coverImageUrl": "https://codenamejakir.github.io/homelibrary/covers/image1.png"
     },
     {
         "bookId": 10,
@@ -107,7 +107,7 @@
         "genre": "হাদিস",
         "price": 800,
         "keywords": ["ইসলাম", "হাদিস", "আরবি"],
-        "coverImageUrl": "https://wafilife-media.wafilife.com/uploads/2020/10/nobijir-pathshala-01-192x254.png"
+        "coverImageUrl": "https://codenamejakir.github.io/homelibrary/covers/image1.png"
     },
     {
         "bookId": 11,
@@ -118,6 +118,6 @@
         "genre": "হাদিস",
         "price": 2500,
         "keywords": ["হাদিস", "সংগ্রহ", "আলোচনা"],
-        "coverImageUrl": "https://wafilife-media.wafilife.com/uploads/2020/10/nobijir-pathshala-01-192x254.png"
+        "coverImageUrl": "https://codenamejakir.github.io/homelibrary/covers/image1.png"
     }
 ]
