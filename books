@@ -1,0 +1,123 @@
+[
+    {
+        "bookId": 1,
+        "name": "আল-কোরআন",
+        "description": "ইসলামের মৌলিক ধর্মগ্রন্থ।",
+        "authors": ["আল্লাহ"],
+        "publisher": "আল-কোরআন কোমিটি",
+        "genre": "ইসলামিক শাস্ত্র",
+        "price": 0,
+        "keywords": ["কোরআন", "ইসলাম", "ধর্ম", "quran", "al-quran", "quraan"],
+        "coverImageUrl": "https://wafilife-media.wafilife.com/uploads/2020/10/nobijir-pathshala-01-192x254.png"
+    },
+    {
+        "bookId": 2,
+        "name": "সহীহ আল-বুখারী",
+        "description": "সুন্নি ইসলামের ছয়টি মুখ্য হাদিস সংগ্রহের একটি।",
+        "authors": ["আল বুখারী", "ইমাম নওয়াবী"],
+        "publisher": "মুসতাফা অলবাংলা",
+        "genre": "হাদিস",
+        "price": 1200,
+        "keywords": ["হাদিস", "সুন্নি", "ইসলাম"],
+        "coverImageUrl": "https://wafilife-media.wafilife.com/uploads/2020/10/nobijir-pathshala-01-192x254.png"
+    },
+    {
+        "bookId": 3,
+        "name": "সহীহ মুসলিম",
+        "description": "সুন্নি ইসলামের প্রধান হাদিস সংগ্রহ।",
+        "authors": ["মুসলিম", "ইমাম নওয়াবী"],
+        "publisher": "মুসতাফা অলবাংলা",
+        "genre": "হাদিস",
+        "price": 1500,
+        "keywords": ["হাদিস", "সুন্নি", "ইসলাম", "muslim", "hadith"],
+        "coverImageUrl": "https://wafilife-media.wafilife.com/uploads/2020/10/nobijir-pathshala-01-192x254.png"
+    },
+    {
+        "bookId": 4,
+        "name": "সুন্নাতে নবী",
+        "description": "প্রফেত মুহাম্মদ (সা:) এর সুন্নতের আলোকে জীবনযাত্রা।",
+        "authors": ["মুফতি মুহাম্মদ হাসান সাব্দার"],
+        "publisher": "নববাংলা পাবলিকেশন্স",
+        "genre": "হাদিস",
+        "price": 1200,
+        "keywords": ["সুন্নাত", "ইসলাম", "হাদিস", "hadith"],
+        "coverImageUrl": "https://wafilife-media.wafilife.com/uploads/2020/10/nobijir-pathshala-01-192x254.png"
+    },
+    {
+        "bookId": 5,
+        "name": "রিয়াদুস সালেহিন",
+        "description": "ইমাম নওয়াবীর সংগ্রহ, যা নৈতিক এবং নৈতিক মানগুলিতে কেন্দ্রিত।",
+        "authors": ["ইমাম নওয়াবী"],
+        "publisher": "ডারুসসালাম",
+        "genre": "হাদিস",
+        "price": 1200,
+        "keywords": ["ইসলাম", "হাদিস", "সুন্নাত", "hadith"],
+        "coverImageUrl": "https://wafilife-media.wafilife.com/uploads/2020/10/nobijir-pathshala-01-192x254.png"
+    },
+    {
+        "bookId": 6,
+        "name": "তাফসির ইবনে কাসীর",
+        "description": "কোরআনের প্রতিটি আয়াতের আদর্শমূলক ব্যাখ্যা।",
+        "authors": ["ইবনে কাসীর"],
+        "publisher": "ডারুসসালাম",
+        "genre": "তাফসীর",
+        "price": 5500,
+        "keywords": ["কোরআন", "তাফসীর", "ইসলাম", "tafsir"],
+        "coverImageUrl": "https://wafilife-media.wafilife.com/uploads/2020/10/nobijir-pathshala-01-192x254.png"
+    },
+    {
+        "bookId": 7,
+        "name": "আরবি সহীহ বুখারী",
+        "description": "আল বুখারীর হাদিস সংগ্রহের আরবি সংস্করণ।",
+        "authors": ["আল বুখারী"],
+        "publisher": "ডারুসসালাম",
+        "genre": "হাদিস",
+        "price": 2000,
+        "keywords": ["আরবি", "হাদিস", "ইসলাম", "islam", "bukhari"],
+        "coverImageUrl": "https://wafilife-media.wafilife.com/uploads/2020/10/nobijir-pathshala-01-192x254.png"
+    },
+    {
+        "bookId": 8,
+        "name": "আল-আহাদিস",
+        "description": "ইসলামী হাদিসের সংকলন এবং ব্যাখ্যা।",
+        "authors": ["মুফতি মেন্টেকদি আমিনুল ইসলাম"],
+        "publisher": "সহবাহ পাবলিকেশন্স",
+        "genre": "হাদিস",
+        "price": 1500,
+        "keywords": ["ইসলাম", "হাদিস", "সংকলন"],
+        "coverImageUrl": "https://wafilife-media.wafilife.com/uploads/2020/10/nobijir-pathshala-01-192x254.png"
+    },
+    {
+        "bookId": 9,
+        "name": "ইসলামী বিশ্বকোষ",
+        "description": "ইসলামের বিভিন্ন বিষয়ে বিস্তারিত তথ্যের সংক্ষিপ্ত একটি সংকলন।",
+        "authors": ["আবুল আলা মাউদুদি"],
+        "publisher": "নববাংলা পাবলিকেশন্স",
+        "genre": "ইসলাম",
+        "price": 1500,
+        "keywords": ["ইসলাম", "হাদিস", "ইতিহাস"],
+        "coverImageUrl": "https://wafilife-media.wafilife.com/uploads/2020/10/nobijir-pathshala-01-192x254.png"
+    },
+    {
+        "bookId": 10,
+        "name": "হাদিসে কুদসী",
+        "description": "ইসলামী হাদিসের আরবি সংস্করণ।",
+        "authors": ["আল্লাহ"],
+        "publisher": "হাদিস ইন্টারন্যাশনাল",
+        "genre": "হাদিস",
+        "price": 800,
+        "keywords": ["ইসলাম", "হাদিস", "আরবি"],
+        "coverImageUrl": "https://wafilife-media.wafilife.com/uploads/2020/10/nobijir-pathshala-01-192x254.png"
+    },
+    {
+        "bookId": 11,
+        "name": "শামীল এহাদিস",
+        "description": "আবু ইসহাক শামীল হাদিস সংগ্রহের বিশাল আলোচনা।",
+        "authors": ["আবু ইসহাক শামীল"],
+        "publisher": "আদর্শ প্রকাশন",
+        "genre": "হাদিস",
+        "price": 2500,
+        "keywords": ["হাদিস", "সংগ্রহ", "আলোচনা"],
+        "coverImageUrl": "https://wafilife-media.wafilife.com/uploads/2020/10/nobijir-pathshala-01-192x254.png"
+    }
+]
