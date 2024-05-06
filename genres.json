@@ -1,7 +1,7 @@
 [
-    {"genreId": 1, "name": "হাদিস"},
-    {"genreId": 2, "name": "তাফসীর"},
-    {"genreId": 3, "name": "ইসলাম"},
-    {"genreId": 4, "name": "ইসলামিক শাস্ত্র"},
-    {"genreId": 5, "name": "সাহাবীদের জীবনী"}  
+    {"genreId": 1, "name": "হাদিস", "nameEng": "Hadith"},
+    {"genreId": 2, "name": "তাফসীর", "nameEng": "Tafsir"},
+    {"genreId": 3, "name": "ইসলাম", "nameEng": "Islam"},
+    {"genreId": 4, "name": "ইসলামিক শাস্ত্র", "nameEng": "Islamic Jurisprudence"},
+    {"genreId": 5, "name": "সাহাবীদের জীবনী", "nameEng": "Biographies of the Companions of the Prophet (S.A.W)"}
 ]
