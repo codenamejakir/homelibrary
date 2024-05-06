@@ -1,7 +1,7 @@
 [
-    {"authorId": 1, "name": "ড. খোন্দকার আব্দুল্লাহ জাহাঙ্গীর"},
-    {"authorId": 2, "name": "শায়খ আহমাদুল্লাহ"},
-    {"authorId": 3, "name": "আরিফ আজাদ"},
-    {"authorId": 4, "name": "আবদুল্লাহ আল মাসউদ"},
-    {"authorId": 5, "name": "ড. রাগিব সারজানী"}  
+    {"authorId": 1, "name": "ড. খোন্দকার আব্দুল্লাহ জাহাঙ্গীর", "nameEng": "Dr. Khondokar Abdullah Jahangir"},
+    {"authorId": 2, "name": "শায়খ আহমাদুল্লাহ", "nameEng": "Shaykh Ahmadullah"},
+    {"authorId": 3, "name": "আরিফ আজাদ", "nameEng": "Arif Azad"},
+    {"authorId": 4, "name": "আবদুল্লাহ আল মাসউদ", "nameEng": "Abdullah Al Masud"},
+    {"authorId": 5, "name": "ড. রাগিব সারজানী", "nameEng": "Dr. Ragib Sarjani"}
 ]
